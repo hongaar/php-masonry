@@ -1,0 +1,10 @@
+{
+    "name": "hongaar/php-masonry",
+    "description": "PHP script to create a random masonry-like mosaic",
+    "require": {
+        "php": ">=5.2.0"
+    },
+    "autoload": {
+        "classmap": ["lib/Masonry.php"]
+    }
+}
